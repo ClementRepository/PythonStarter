@@ -1,5 +1,6 @@
 price=1000000
-good_credit=True #They have good credit
+good_credit=True
+bad_credit=False #They have good credit
 
 
 if good_credit:
