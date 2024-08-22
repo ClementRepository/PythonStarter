@@ -3,7 +3,8 @@ good_credit=True #They have good credit
 
 
 if good_credit:
-    print(int(price * .1))
+    down_payment=price * .1
 
 else:
-    print(int(price * .2))
+    down_payment=price * .2
+print(f"Down payment: {down_payment}")
