@@ -7,4 +7,4 @@ if good_credit:
 
 else:
     down_payment=price * .2
-print(f"Down payment: {down_payment}")
+print(f"Down payment: ${down_payment}")
