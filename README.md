@@ -1,2 +1,2 @@
 # PythonStarterino
-Time to learn python!
+A small collection of python code.
